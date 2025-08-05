@@ -1,0 +1,22 @@
+h1 {
+    color: white;
+    background-color: rgb(253, 74, 74);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 12px;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: salmon;
+    width: 50%;
+    padding-left: 12px;
+}
+
+p {
+    margin-left: 12px;
+}
+
+#home{
+    background-color: rgb(231, 243, 255);
+}
+
